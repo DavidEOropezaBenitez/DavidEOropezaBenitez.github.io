@@ -1,0 +1,23 @@
+@charset "UTF-8";
+main #contenido #flechaabajof1 {
+    position: absolute;
+    margin-left: 1240px;
+    margin-top: 55px;
+}
+main #contenido #flechaderef1 {
+    position: absolute;
+    margin-left: 1230px;
+    margin-top: 600px;
+}
+main #contenido #flechaizq2 {
+    margin-top: 600px;
+    margin-left: 10px;
+    position: absolute;
+}
+main #contenido img {
+}
+#contendor .cartel {
+    position: absolute;
+    margin-left: 900px;
+    margin-top: 80px;
+}
